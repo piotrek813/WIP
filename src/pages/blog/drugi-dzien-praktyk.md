@@ -5,25 +5,21 @@ excerpt: W drugim dniu naszych praktyk w firmie EiP mieliśmy okazję poznać
   podstawy podłączania monitoringu za pomocą programów open source. Był to dla
   nas bardzo ciekawy i pouczający dzień, podczas którego zdobyliśmy wiele
   praktycznych umiejętności.
-date: 2023-05-09T16:49:12.435Z
+date: 2023-05-09T12:53:12.435Z
 image: /images/1683635651361.jpeg
-author: Team Wiśniowa
+author: Jakub Baran
 tags:
-  - ptaktyki
+  - praktyki
   - wiśniowa
   - eip
   - kawa
 publishDate: 2023-05-09
 category: Praktyki
 ---
-W drugim dniu naszych praktyk w firmie EiP mieliśmy okazję poznać podstawy podłączania monitoringu za pomocą programów open source. Był to dla nas bardzo ciekawy i pouczający dzień, podczas którego zdobyliśmy wiele praktycznych umiejętności.
+W drugim dniu naszych praktyk w firmie EiP mieliśmy okazję poznać podstawy konfiguracji monitoringu za pomocą programów open source. Był to dla nas bardzo ciekawy i pouczający dzień, podczas którego zdobyliśmy wiele praktycznych umiejętności.
 
-Pierwszym etapem było podłączenie jednej, a następnie kilku następnych kamer, za pomocą programów open source. Ustawiliśmy kamery w takim sposób, aby działała w trybie ciągłym. Udało nam się również przejąć kontrolę nad ruchem kamery, wraz z możliwością zooma.
+Na początku skupiliśmy się na podłączeniu pojedynczej kamery, a następnie rozszerzyliśmy nasze działania na resztę. Korzystając z dostępnych programów open source, skonfigurowaliśmy kamery pozwalając na ciągła obserwację. Ponadto, udało nam się sterowania ruchem kamer oraz możliwość przybliżania obrazu.
 
-![switch](/images/1683635649367.jpeg "switch")
+![setup kamer](/images/img_0946.jpg "setup kamer")
 
-Kolejnym krokiem było ustawienie detekcji ruchu wraz z systemem alarmowym, puszczającym sygnały dźwiękowe oraz wysyłającym zdjęcia, wraz z ostrzeżeniem o zaistniałym ruchu.
-
-Dzięki tym umiejętnościom, zyskaliśmy możliwość  kontroli nad monitorowaniem wybranych miejsc w firmie oraz otrzymywania powiadomień o potencjalnych zagrożeniach. Zdajemy sobie sprawę, jak ważne jest to w dzisiejszych czasach, zwłaszcza w branży bezpieczeństwa.
-
-Drugiego dnia praktyk zdobyliśmy wiele nowych umiejętności i doświadczeń w dziedzinie monitoringu. Cieszymy się, że mogliśmy wziąć udział w takiej praktyce i zdobyć wiedzę, która na pewno przyda nam się w przyszłości.
+Kolejnym krokiem było skonfigurowanie systemu detekcji ruchu i systemem alarmowego, który generuje sygnały dźwiękowe i wysyła zdjęcia na adres email, aby ostrzec o wykrytym ruchu.
