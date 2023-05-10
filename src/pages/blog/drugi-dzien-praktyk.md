@@ -18,7 +18,7 @@ category: Praktyki
 ---
 W drugim dniu naszych praktyk w firmie EiP mieliśmy okazję poznać podstawy konfiguracji monitoringu za pomocą programów open source. Był to dla nas bardzo ciekawy i pouczający dzień, podczas którego zdobyliśmy wiele praktycznych umiejętności.
 
-Na początku skupiliśmy się na podłączeniu pojedynczej kamery, a następnie rozszerzyliśmy nasze działania na resztę. Korzystając z dostępnych programów open source, skonfigurowaliśmy kamery pozwalając na ciągła obserwację. Ponadto, udało nam się sterowania ruchem kamer oraz możliwość przybliżania obrazu.
+Na początku skupiliśmy się na podłączeniu pojedynczej kamery, a następnie rozszerzyliśmy nasze działania na resztę. Korzystając z dostępnych programów open source, skonfigurowaliśmy kamery pozwalając na ciągła obserwację. Nie tylko udało nam się zdalnie sterować ruchem kamer, ale również dostosować przybliżenie obrazu, aby móc precyzyjnie monitorować interesujące nas obszary.
 
 ![setup kamer](/images/img_0946.jpg "setup kamer")
 
