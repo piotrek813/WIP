@@ -6,7 +6,8 @@ excerpt: W drugim dniu naszych praktyk w firmie EiP mieliśmy okazję poznać
   nas bardzo ciekawy i pouczający dzień, podczas którego zdobyliśmy wiele
   praktycznych umiejętności.
 date: 2023-05-09T12:53:12.435Z
-image: /images/1683635651361.jpeg
+image: /images/img_6799.jpg
+category: Praktyki
 author: Jakub Baran
 tags:
   - praktyki
@@ -14,7 +15,6 @@ tags:
   - eip
   - kawa
 publishDate: 2023-05-09
-category: Praktyki
 ---
 W drugim dniu naszych praktyk w firmie EiP mieliśmy okazję poznać podstawy konfiguracji monitoringu za pomocą programów open source. Był to dla nas bardzo ciekawy i pouczający dzień, podczas którego zdobyliśmy wiele praktycznych umiejętności.
 
