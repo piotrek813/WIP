@@ -1,6 +1,6 @@
 ---
 layout: "@layouts/BlogLayout.astro"
-title: Czwarty dzień praktyk
+title: Praca z serwerami, czyli czwarty dzień praktyk zawodowych
 excerpt: Czwarty dzień praktyk zawodowych w firmie EIP był dniem serwerowym.
   Rozpoczął się częścią teoretyczną, w której Pan Kucharczyk zapoznał nas z
   fizyczną strukturą serwerów, jej funkcjonalnością i zabezpieczającą
