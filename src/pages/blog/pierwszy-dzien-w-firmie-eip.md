@@ -5,7 +5,8 @@ excerpt: Na początku pierwszego dnia praktyk zawodowych w firmie EiP, po
   przywitaniu z opiekunem praktyk, Panem Robertem Kucharczykiem, uczniowie
   Technikum Mechatronicznego nr. 1 w Warszawie mieli okazję omówić swoje CV
 date: 2023-05-08T12:31:07.395Z
-image: /images/wisniowa-is-possible-logo.png
+image: /images/wip_logo.png
+category: Praktyki
 author: Wiktor Górecki
 tags:
   - praktyki
@@ -13,7 +14,6 @@ tags:
   - eip
   - kawa
 publishDate: 2023-05-08
-category: Praktyki
 ---
 Na początku pierwszego dnia praktyk zawodowych w firmie EiP, po przywitaniu z opiekunem praktyk, Panem Robertem Kucharczykiem, uczniowie Technikum Mechatronicznego nr. 1 w Warszawie mieli okazję omówić swoje CV oraz możliwości dostępne dla informatyków na rynku pracy. Następnie zostali zapoznani planem praktyk.
 
