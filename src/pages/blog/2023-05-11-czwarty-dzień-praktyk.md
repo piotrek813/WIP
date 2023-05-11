@@ -5,7 +5,7 @@ excerpt: Czwarty dzień praktyk zawodowych w firmie EIP był dniem serwerowym.
   Rozpoczął się częścią teoretyczną, w której Pan Kucharczyk zapoznał nas z
   fizyczną strukturą serwerów, jej funkcjonalnością i zabezpieczającą
   redundantnością.
-date: 2023-05-11T14:33:46.786Z
+date: 2023-05-11T12:31:00.000Z
 image: /images/img_7239.jpg
 category: Praktyki
 author: Aleksander Czarnowski
