@@ -7,7 +7,7 @@ excerpt: Czwarty dzień praktyk zawodowych w firmie EIP był dniem serwerowym.
 author: Aleksander Czarnowski
 date: 2023-05-11T12:31:00.000Z
 title: Praca z serwerami, czyli czwarty dzień praktyk zawodowych
-publishDate: 2023-05-12T18:42:27.285Z
+publishDate: 2023-05-11T12:42:27.285Z
 image: /images/img_7239.jpg
 category: Praktyki
 tags:
