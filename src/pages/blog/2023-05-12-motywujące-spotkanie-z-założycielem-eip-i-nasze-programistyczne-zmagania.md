@@ -5,7 +5,7 @@ excerpt: Dzisiejszy dzień rozpoczęliśmy od spotkania z Pawłem Prasułą -
   założycielem i CEO EIP Group. Na początku podzielił się z nami kilkoma
   anegdotami, które złożyły się na jego późniejszy sukces zawodowy.
 date: 2023-05-12T17:06:53.505Z
-image: /images/img_7303.jpg
+image: /images/img_7294.jpg
 category: Praktyki
 author: Łukasz Jagiełło
 tags:
@@ -16,7 +16,7 @@ tags:
   - wiśniowa
   - eip
 ---
-![](/images/img_7294.jpg)
+![](/images/img_7303.jpg)
 
 Dzisiejszy dzień rozpoczęliśmy od spotkania z Pawłem Prasułą - założycielem i CEO EIP Group. Na początku podzielił się z nami kilkoma anegdotami, które złożyły się na jego późniejszy sukces zawodowy. Następnie z ogromnym zaangażowaniem i pasją do wykonywanej pracy, opowiedział nam o firmach wchodzących w skład EIP Group oraz ich głównych obszarach. Na koniec wspólnie obejrzeliśmy niezwykle motywującego TEDxa, autorstwa Jacka Walkiewicza.
 
