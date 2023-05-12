@@ -1,13 +1,14 @@
 ---
 layout: "@layouts/BlogLayout.astro"
-title: Motywujące spotkanie z założycielem EIP i nasze programistyczne zmagania
 excerpt: Dzisiejszy dzień rozpoczęliśmy od spotkania z Pawłem Prasułą -
   założycielem i CEO EIP Group. Na początku podzielił się z nami kilkoma
   anegdotami, które złożyły się na jego późniejszy sukces zawodowy.
+author: Łukasz Jagiełło
 date: 2023-05-12T17:06:53.505Z
+title: Motywujące spotkanie z założycielem EIP i nasze programistyczne zmagania
+publishDate: 2023-05-12T18:42:58.176Z
 image: /images/img_7294.jpg
 category: Praktyki
-author: Łukasz Jagiełło
 tags:
   - praktyki
   - python
