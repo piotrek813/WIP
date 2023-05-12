@@ -15,11 +15,11 @@ tags:
   - wiśniowa
   - eip
 ---
-Czwarty dzień praktyk zawodowych w firmie EIP był dniem serwerowym. Rozpoczął się częścią teoretyczną, w której Pan Kucharczyk zapoznał nas z fizyczną strukturą serwerów, jej funkcjonalnością i zabezpieczającą redundantnością np. dwoma zasilaczami lub rozbudowanym systemem aktywnego chłodzenia, którego szarganie powietrza i nerwów było z nami obecne przez resztę dnia.
+Czwarty dzień praktyk zawodowych w firmie EIP był dniem serwerowym. Rozpoczął się częścią teoretyczną, w której Pan Kucharczyk zapoznał nas z fizyczną strukturą serwerów, jej funkcjonalnością i redundantnością np. dwoma zasilaczami lub rozbudowanym systemem aktywnego chłodzenia, którego szarganie powietrza i nerwów było z nami obecne przez resztę dnia.
 
 ![](/images/img_7271.jpg)
 
-Następna godzina upłynęła nam na poszerzaniu zakresu wiedzy na temat boot managerów, które umożliwiają instalację wielu systemów operacyjnych na jednej maszynie i miały okazać się przydatne w kolejnym zadaniu. Wśród kandydatów wytypowanych do późniejszej eksploatacji znalazły się EasyBCD, Grub2Win oraz rEFine.
+Następna godzina upłynęła nam na poszerzaniu zakresu wiedzy na temat boot managerów, które umożliwiają instalację wielu systemów operacyjnych na jednej maszynie i miały okazać się przydatne w kolejnym zadaniu. Wśród kandydatów wytypowanych do późniejszej eksploatacji znalazły się EasyBCD, Grub2Win oraz rEFind.
 
 Po grupowej burzy mózgów, w której zdecydowaliśmy, że Grub2Win będzie najlepszym wyborem, przystąpiliśmy do konfiguracji hardware. Wymieniliśmy kości pamięci RAM, po czym zdiagnozowaliśmy działanie i wymieniliśmy uszkodzone lub stare dyski twarde.
 
