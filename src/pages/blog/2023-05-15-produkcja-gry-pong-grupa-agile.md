@@ -23,4 +23,4 @@ Po krótkiej przerwie rozpoczęliśmy pracę nad produkcją gry. Po pierwsze mus
 
 Zgodnie ze scrum’owym podejściem naszą pracę podzieliliśmy na sprinty 🏃. Chociaż w rzeczywistości sprint trwa zwykle dwa tygodnie, u nas trwał zaledwie jedną godzinę. Wynikało to z faktu, iż pracujemy na prostą gierką - pong i chcieliśmy wyciągnąć jak najwięcej z naszego ograniczonego czasu.
 
-Praca w oparciu o agile przebiegała płynnie. Na koniec dzisiejszego dnia mogliśmy pochwalić się działającym prototypem (tak prototyp ponga) i przepięknymi grafikami. Jutro zamierzamy ukończyć projekt i podzielić się jego rezultatami na naszym blogu.
+Praca w oparciu o agile przebiegała płynnie. Na koniec dzisiejszego dnia mogliśmy pochwalić się działającym prototypem (tak prototyp ponga) i przepięknymi grafikami. Jutro zamierzamy ukończyć projekt i [podzielić się jego rezultatami na naszym blogu](https://wip-tm1.netlify.app/blog/2023-05-16-zako%C5%84czenie-prac-nad-gr%C4%85-grupa-agile/).
