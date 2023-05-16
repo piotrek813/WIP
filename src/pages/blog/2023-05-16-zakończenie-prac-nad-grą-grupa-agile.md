@@ -36,7 +36,9 @@ Ta elastyczna forma pracy pozwoliła nam na szybkie i skuteczne reagowanie na zm
 
 Programowanie rozpoczęliśmy od opracowania podstawowych mechanizmów gry, takich jak ruchy paletką, odbijanie piłki i reagowanie na kolizje. Dzięki bibliotece pygame mogliśmy korzystać z gotowych narzędzi do obsługi grafiki, dźwięku i interakcji z użytkownikiem. Mimo iż byliśmy początkującymi programistami, dzięki współpracy i wzajemnej pomocy udało nam się szybko zaimplementować podstawowe elementy gry.
 
-![](/images/346114534_604668838297133_3233965486175443343_n.png)
+![](/images/zrzut-ekranu-745-.png)
+
+![](/images/zrzut-ekranu-744-.png)
 
 Projekt wzbogaciliśmy poprzez dodanie efektów dźwiękowych, muzyki i grafik, by wnieść do gry nieco więcej dynamiki i klimatu retro. Wtedy nasza gra zaczęła już nabierać prawdziwego charakteru. Udało nam się także umieścić w kodzie małego Easter Egga, który - nie tak łatwo, ale jednak - można znaleźć w ustawieniach.
 
@@ -52,4 +54,4 @@ Te dwa dni pozwoliły nam zgłębić tajniki organizacji pracy metodą Agile, w 
 
 Naszą grę możecie przetestować sami i ocenić wyniki naszej pracy :)
 
-[<https://github.com/piotrek813/pong-wip/tree/main?fbclid=IwAR1ORFlxpPtfWd0bHYoU0kbLnBpD4GuqDvFfIDOIKaVpx_iN31iYvcmdZls>](<https://github.com/piotrek813/pong-wip/tree/main?fbclid=IwAR1ORFlxpPtfWd0bHYoU0kbLnBpD4GuqDvFfIDOIKaVpx_iN31iYvcmdZls>)
+[<https://github.com/piotrek813/pong-wip/tree/main?fbclid=IwAR1ORFlxpPtfWd0bHYoU0kbLnBpD4GuqDvFfIDOIKaVpx_iN31iYvcmdZls>](https://github.com/piotrek813/pong-wip/tree/main?fbclid=IwAR1ORFlxpPtfWd0bHYoU0kbLnBpD4GuqDvFfIDOIKaVpx_iN31iYvcmdZls)
