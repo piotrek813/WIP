@@ -52,6 +52,4 @@ Nasz zespół przez cały czas wykazywał pełen entuzjazm i ducha współpracy 
 
 Te dwa dni pozwoliły nam zgłębić tajniki organizacji pracy metodą Agile, w szczególności w zakresie tworzenia gier komputerowych. Doświadczenie, które zdobyliśmy było niesamowicie inspirujące. Pozwoliło nam zrozumieć, jak ważne jest elastyczne podejście w projektowaniu oprogramowania i nie tylko oraz jak dużo można osiągnąć i nauczyć się, pracując w zespole.
 
-Naszą grę możecie przetestować sami i ocenić wyniki naszej pracy :)
-
-[<https://github.com/piotrek813/pong-wip/tree/main?fbclid=IwAR1ORFlxpPtfWd0bHYoU0kbLnBpD4GuqDvFfIDOIKaVpx_iN31iYvcmdZls>](https://github.com/piotrek813/pong-wip/tree/main?fbclid=IwAR1ORFlxpPtfWd0bHYoU0kbLnBpD4GuqDvFfIDOIKaVpx_iN31iYvcmdZls)
+[Naszą grę ](https://github.com/piotrek813/pong-wip)możecie przetestować sami i ocenić wyniki naszej pracy :)
