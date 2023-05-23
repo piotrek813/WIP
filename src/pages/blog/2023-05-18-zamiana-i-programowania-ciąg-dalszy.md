@@ -4,7 +4,7 @@ title: Zamiana i programowania ciąg dalszy
 excerpt: Po ostatnim projekcie grupy zamieniły się miejscami, więc nasza grupa
   po zakończeniu projektu metodą Agile, została zapoznana pod kierownictwem
   Bartłomieja Wydro z metodą Waterfall.
-publishDate: 2023-05-18T15:58:46.477Z
+publishDate: 2023-05-17T15:58:46.477Z
 image: /images/img_7324.jpg
 category: Praktyki
 author: Łukasz Jagiełło
