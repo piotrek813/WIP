@@ -1,6 +1,6 @@
 ---
 layout: "@layouts/BlogLayout.astro"
-title: Walki robotów, stawianie serwerów i gaszenie pożarów.
+title: Walki robotów, stawianie serwerów i gaszenie pożarów
 excerpt: Dzień zaczął się krótkim briefingiem na temat projektów zaproponowanych
   w ostatni piątek
 publishDate: 2023-05-22T12:43:10.911Z
