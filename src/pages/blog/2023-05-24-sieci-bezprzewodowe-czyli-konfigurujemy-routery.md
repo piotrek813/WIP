@@ -3,7 +3,7 @@ layout: "@layouts/BlogLayout.astro"
 title: Sieci bezprzewodowe, czyli konfigurujemy routery
 excerpt: Dzisiaj rozpoczęliśmy nasze zmagania z sieciami komputerowymi.
 publishDate: 2023-05-23T11:49:20.092Z
-image: /images/img_8027.jpg
+image: /images/img_8079.jpg
 category: Praktyki
 author: Mateusz Kaza
 tags:
