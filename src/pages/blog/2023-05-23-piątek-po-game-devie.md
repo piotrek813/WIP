@@ -4,7 +4,7 @@ title: Piątek po game dev'ie
 excerpt: Koniec drugiego tygodnia praktyk najlepiej opisuje słowo planowanie.
   Dzisiaj Robert (opiekun praktyk) przedstawił nam pomysły na następne tygodnie.
 publishDate: 2023-05-19T07:12:35.051Z
-image: /images/trebor12x_mechanics_programmers_repairing_battlebot_85cb9886-0743-492c-8deb-2064af171831.png
+image: /images/trebor12x_god_programming_humans_style_antic_77deda46-64c7-4974-8518-f81c3c3bd7b9.png
 category: Praktyki
 author: Piotrek Smoliński
 tags:
