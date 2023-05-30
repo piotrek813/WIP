@@ -6,7 +6,7 @@ excerpt: Po krótkim spotkaniu organizacyjnym od razu wzięliśmy się do pracy 
   wskazówki, oraz radzili ze swojego 15 letniego doświadczenia w branży. Ze
   sprzetu Dodatkowo mieliśmy 3 routery i jednego switcha. Mimo problemów
   technicznych z routerem
-publishDate: 2023-05-25T12:40:40.250Z
+publishDate: 2023-05-24T12:40:40.250Z
 image: /images/img_8674.jpg
 category: Praktyki
 author: Maciej Królikowski
