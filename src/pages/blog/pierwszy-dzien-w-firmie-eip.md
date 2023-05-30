@@ -7,7 +7,7 @@ author: Wiktor Górecki
 date: 2023-05-08T12:31:07.395Z
 title: Praktyki zawodowe w firmie EiP - jak wygląda praca w branży IT
 publishDate: 2023-05-08
-image: /images/wip_logo-cropped.png
+image: /images/wip_logo.png
 category: Praktyki
 tags:
   - praktyki
