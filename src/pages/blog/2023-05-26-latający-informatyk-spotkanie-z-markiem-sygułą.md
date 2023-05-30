@@ -5,7 +5,7 @@ excerpt: Spotkanie z Markiem Sygułą, który przez wiele lat pracował jako
   informatyk i project manager, było niezwykle interesujące. Marek opowiedział
   nam o swojej fascynacji lotnictwem i tym, jak postanowił zrealizować swoje
   marzenie o zostaniu pilotem.
-publishDate: 2023-05-26T11:33:58.986Z
+publishDate: 2023-05-25T11:33:58.986Z
 image: /images/img_8836.jpg
 category: Praktyki
 author: Maciej Królikiewicz
