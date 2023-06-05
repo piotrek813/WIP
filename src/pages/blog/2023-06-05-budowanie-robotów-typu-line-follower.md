@@ -4,7 +4,7 @@ title: Budowanie robotów typu Line Follower
 excerpt: Dziś w końcu mieliśmy dostać możliwość praktycznego przetestowania kodu
   napisanego wczoraj. Dotarły do nas zamówione w poniedziałek platformy jeżdżące
   z silnikami. Pierwszym i zaskakująco trudnym zadaniem było złożenie automatów.
-publishDate: 2023-05-31T06:27:13.048Z
+publishDate: 2023-06-01T06:27:13.048Z
 image: /images/img_9129.jpg
 category: Praktyki
 author: Aleksander Czarnowski
