@@ -17,6 +17,4 @@ Dziś w końcu mieliśmy dostać możliwość praktycznego przetestowania kodu n
 
 Wśród przeszkód, które znalazły się na naszej drodze były gąsienice, których moduły zaciekle nie chciały się rozłączyć i koła z łożyskami, które za mocno się przykręcały. Ich zainstalowanie zakończyło budowę ramy na której miały się znaleźć elementy elektroniczne. W następnej kolejności było mocowanie płytek i gniazd baterii. W tej pracy wielce przydatne okazały się trytytki wraz z taśmą dwustronną. Zaraz potem było łączenie kabli, szczegół ten najbardziej rozgraniczał projekty estetyczne od tych trochę mniej - spagetti przewodów. Po przytwierdzeniu kabli i sensorów część hardware'owa została ukończona. 
 
-![](/images/img_9110.jpg)
-
 Pomimo przytłaczającej ilości potu, krwi, łez oraz kawy, które dotychczas zostały przelane prawdziwa zabawa miała dopiero się zacząć. Teraz trzeba było wymyślić jak zmusić sensory podczerwieni do zwracania użytecznych danych. Wymagało to kilkukrotnej refaktoryzacji kodu, a nawet zmiany portów, ale po ponad godzinie udało się doprowadzić je do porządku. Resztę prac mieliśmy dokończyć następnego dnia.
