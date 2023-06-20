@@ -1,6 +1,6 @@
 ---
 layout: "@layouts/BlogLayout.astro"
-title: Drugi dzień w MAIN
+title: Drugi dzień w MAIN DC
 excerpt: Drugiego dnia naszych praktyk mieliśmy okazję samodzielnie doświadczyć
   zarządzania zasobami chmurowymi. Pracowaliśmy na własnych maszynach
   wirtualnych, które tworzyliśmy w środowisku chmurowym. Przez to praktyczne
